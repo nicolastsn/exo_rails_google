@@ -34,11 +34,9 @@ ul {
 }
 
 
-.picto{
-	background-image: "picto_b.png" ;
-}
 
-.picto a img:hover{
+
+.picto a:hover{
 	background-image: "picto.png";
 }
 
