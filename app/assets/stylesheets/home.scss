@@ -3,7 +3,13 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 
-.logo{
 
-	background:image-url('logo.png');	
+
+.logo {
+		background:image-url('logo.png');	
+    margin:auto;
+    padding: 150px 0 0px 0;
+    width: 20%;
+    display: block;
+    clear: both;
 }
