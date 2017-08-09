@@ -33,9 +33,13 @@ ul {
     list-style-type:none;
 }
 
-.picto:hover {
-	background-image: 'picto.png'; 
+
+
+.picto a img:hover{
+	background-image: "picto.png";
 }
+
+
 
 .navbar ul li {
     float: right;
