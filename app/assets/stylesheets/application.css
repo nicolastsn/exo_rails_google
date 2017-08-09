@@ -43,9 +43,7 @@ ul {
 }
 
 
-ul li a img:hover{
-	background-image: image-url("picto.png");
-}
+
 
 .btnconnexion{
 	width: 70px;
@@ -77,17 +75,15 @@ a:hover {
 }
 
 
-
-
-
-
 .logo {
+		background: image-url('logo.png');	
     margin:auto;
     padding: 150px 0 0px 0;
     width: 20%;
     display: block;
     clear: both;
 }
+
 
 .logo-france {
     color: #4285f4;
