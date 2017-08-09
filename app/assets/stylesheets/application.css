@@ -29,12 +29,11 @@
     margin:10px;
 }
 
-
 ul {
     list-style-type:none;
 }
 
-
+.picto{}
 
 .navbar ul li {
     float: right;
@@ -45,7 +44,7 @@ ul {
 
 
 ul li a img:hover{
-	background-image: "<img http://res.cloudinary.com/nicolastsn/image/upload/v1499287302/picto_noir_hszv7j.png";
+	background-image: image-url("picto.png");
 }
 
 .btnconnexion{
